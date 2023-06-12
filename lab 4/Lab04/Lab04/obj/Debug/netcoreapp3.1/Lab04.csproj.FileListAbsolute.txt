@@ -1,0 +1,48 @@
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.AssemblyReference.cache
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\obj\Debug\netcoreapp3.1\Lab04.Employee.resources
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\obj\Debug\netcoreapp3.1\Lab04.Form1.resources
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.GenerateResource.cache
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\obj\Debug\netcoreapp3.1\Lab04.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\obj\Debug\netcoreapp3.1\Lab04.AssemblyInfoInputs.cache
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\obj\Debug\netcoreapp3.1\Lab04.AssemblyInfo.cs
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.CoreCompileInputs.cache
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\bin\Debug\netcoreapp3.1\Lab04.exe
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\bin\Debug\netcoreapp3.1\Lab04.deps.json
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\bin\Debug\netcoreapp3.1\Lab04.runtimeconfig.json
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\bin\Debug\netcoreapp3.1\Lab04.runtimeconfig.dev.json
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\bin\Debug\netcoreapp3.1\Lab04.dll
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\bin\Debug\netcoreapp3.1\Lab04.pdb
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\obj\Debug\netcoreapp3.1\Lab04.dll
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\obj\Debug\netcoreapp3.1\Lab04.pdb
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\obj\Debug\netcoreapp3.1\Lab04.genruntimeconfig.cache
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\School\Bảo mật cơ sở dữ liệu\Lab04-CaNhan-NguyenMinhHuy\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.CopyComplete
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\bin\Debug\netcoreapp3.1\Lab04.exe
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\bin\Debug\netcoreapp3.1\Lab04.deps.json
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\bin\Debug\netcoreapp3.1\Lab04.runtimeconfig.json
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\bin\Debug\netcoreapp3.1\Lab04.runtimeconfig.dev.json
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\bin\Debug\netcoreapp3.1\Lab04.dll
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\bin\Debug\netcoreapp3.1\Lab04.pdb
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.AssemblyReference.cache
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.Employee.resources
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.Form1.resources
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.GenerateResource.cache
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.GeneratedMSBuildEditorConfig.editorconfig
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.AssemblyInfoInputs.cache
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.AssemblyInfo.cs
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.CoreCompileInputs.cache
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.csproj.CopyComplete
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.dll
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.pdb
+D:\BẢO MẬT CSDL\lab 4\Lab04\Lab04\obj\Debug\netcoreapp3.1\Lab04.genruntimeconfig.cache
